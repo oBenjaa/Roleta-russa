@@ -1,0 +1,15 @@
+{
+  "name": "roleta-russa",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "src/index.ts",
+    "build": "src/index.ts"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
